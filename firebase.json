@@ -3,7 +3,7 @@
     "source": "dataconnect"
   },
   "hosting": {
-    "public": "DonorHub-Web-Server",
+    "public": "/path/to/DonorHub-Web-Server",
     "ignore": [
       "firebase.json",
       "**/.*",
